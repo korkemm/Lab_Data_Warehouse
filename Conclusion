@@ -1,0 +1,2 @@
+The lab helped understand the three main types of data warehouse schemas: Star, Snowflake, and Galaxy. A Star Schema for a retail sales warehouse and a Snowflake Schema for 
+a company sales warehouse were successfully designed. These schemas improve data organization and support efficient analytical reporting.
